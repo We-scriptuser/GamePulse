@@ -1,6 +1,6 @@
 
 # 🖱 Air Mouse using MPU-6050, ESP-01, and Raspberry Pi Pico
-![My Projects-37](https://github.com/user-attachments/assets/93c01b87-4746-4f3d-a00b-4ed0db61c337)
+![373742976-93c01b87-4746-4f3d-a00b-4ed0db61c337](https://github.com/user-attachments/assets/c15ac1f8-0a6f-419e-a135-32ba2496e018)
 
 ## 📌 Overview
 This project creates a **wireless Air Mouse** that controls a computer's mouse pointer by moving a handheld unit.  
